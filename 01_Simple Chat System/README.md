@@ -44,14 +44,16 @@ This repository is part of the **Aziz-Tech-Portfolio**, showcasing skills in:
    ```
    git clone https://github.com/Azizulhaq-professional/Aziz-Tech-Portfolio.git
    ```
+
 2. Navigate to the project folder:
-```
+    ```
 cd Aziz-Tech-Portfolio/01_Simple\ Chat\ System
-```
+    ```
+
 3. Run the Python script:
-```
+    ```
 python 01_simple_chat_system.py
-```
+    ```
 4. Explore the notebook for step‑by‑step walkthrough.
 
 ## 👤 Author

@@ -1,6 +1,7 @@
 🏡 House Price Prediction using Linear Regression
 
 📌 Project Overview
+
 This project demonstrates a complete machine learning workflow for predicting house prices using Linear Regression. It covers data preprocessing, model training, evaluation, and visualization, providing a clear example of how regression models can be applied to real‑world datasets.
 
 ⚙️ Workflow Steps

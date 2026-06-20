@@ -40,6 +40,33 @@ This project demonstrates a complete machine learning workflow for predicting ho
 
 ➡️ The model explains a portion of the variance in house prices but leaves room for improvement. Suggested enhancements include feature engineering, outlier removal, and advanced algorithms like Random Forest or XGBoost.
 
+📸 Workflow Screenshots
+The following images document the Linear Regression Workflow for the Price Predictor project.
+You can view them directly in the repository:
+👉 Screenshots Folder
+
+🔑 Steps with Visuals
+Train-Test Split  
+https://github.com/Azizulhaq-professional/Aziz-Tech-Portfolio/blob/main/03_Price%20Predictor/screenshots/1_Train_Test.JPG
+
+Linear Regression Model  
+https://github.com/Azizulhaq-professional/Aziz-Tech-Portfolio/blob/main/03_Price%20Predictor/screenshots/2_Linear_Regression.JPG
+
+Make Predictions  
+https://github.com/Azizulhaq-professional/Aziz-Tech-Portfolio/blob/main/03_Price%20Predictor/screenshots/3_Make_Prediction.JPG
+
+Evaluate Model  
+https://github.com/Azizulhaq-professional/Aziz-Tech-Portfolio/blob/main/03_Price%20Predictor/screenshots/4_Evaluate_Model.JPG
+
+Compare Actual vs Predicted  
+https://github.com/Azizulhaq-professional/Aziz-Tech-Portfolio/blob/main/03_Price%20Predictor/screenshots/5_Compare.JPG
+
+Graph Visualization  
+https://github.com/Azizulhaq-professional/Aziz-Tech-Portfolio/blob/main/03_Price%20Predictor/screenshots/6_Graph.JPG
+
+Perfect Fit Graph  
+https://github.com/Azizulhaq-professional/Aziz-Tech-Portfolio/blob/main/03_Price%20Predictor/screenshots/7_Graph_Perfect_Fit.JPG
+
 🛠️ Tech Stack
 
 - Languages: Python

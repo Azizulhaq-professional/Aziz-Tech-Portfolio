@@ -26,32 +26,21 @@ The workflow covers data preprocessing, CNN model design, training, evaluation, 
 
 - README.md – Project documentation
 
-🖼️ Workflow Screenshots
+## 🖼️ Workflow Screenshots  
 
 Explore the step‑by‑step CNN pipeline:
 
-Load Dataset (github.com in Bing)
-
-Reshape for CNN (github.com in Bing)
-
-Model Summary (github.com in Bing)
-
-Training Epochs (github.com in Bing)
-
-Test Dataset Evaluation (github.com in Bing)
-
-Generate Predictions (github.com in Bing)
-
-Confusion Matrix (github.com in Bing)
-
-Classification Report (github.com in Bing)
-
-Accuracy Graph (github.com in Bing)
-
-Loss Curve (github.com in Bing)
-
-Display Predictions (github.com in Bing)
-
+- [Load Dataset](https://github.com/Azizulhaq-professional/Aziz-Tech-Portfolio/blob/main/04_Fashion%20MNIST%20CNN/screenshots/1_Load_Mnist_Dataset.JPG)  
+- [Reshape for CNN](https://github.com/Azizulhaq-professional/Aziz-Tech-Portfolio/blob/main/04_Fashion%20MNIST%20CNN/screenshots/1_Reshape_CNN.JPG)  
+- [Model Summary](https://github.com/Azizulhaq-professional/Aziz-Tech-Portfolio/blob/main/04_Fashion%20MNIST%20CNN/screenshots/2_Model_Summary.JPG)  
+- [Training Epochs](https://github.com/Azizulhaq-professional/Aziz-Tech-Portfolio/blob/main/04_Fashion%20MNIST%20CNN/screenshots/3_Train_Model_Epochs.JPG)  
+- [Test Dataset Evaluation](https://github.com/Azizulhaq-professional/Aziz-Tech-Portfolio/blob/main/04_Fashion%20MNIST%20CNN/screenshots/4_Test%20Dataset.JPG)  
+- [Generate Predictions](https://github.com/Azizulhaq-professional/Aziz-Tech-Portfolio/blob/main/04_Fashion%20MNIST%20CNN/screenshots/5_Generate_Predictions.JPG)  
+- [Confusion Matrix](https://github.com/Azizulhaq-professional/Aziz-Tech-Portfolio/blob/main/04_Fashion%20MNIST%20CNN/screenshots/6_Confusion_Matrix.JPG)  
+- [Classification Report](https://github.com/Azizulhaq-professional/Aziz-Tech-Portfolio/blob/main/04_Fashion%20MNIST%20CNN/screenshots/7_Classification_Report.JPG)  
+- [Accuracy Graph](https://github.com/Azizulhaq-professional/Aziz-Tech-Portfolio/blob/main/04_Fashion%20MNIST%20CNN/screenshots/8_Accuracy_Graph.JPG)  
+- [Loss Curve](https://github.com/Azizulhaq-professional/Aziz-Tech-Portfolio/blob/main/04_Fashion%20MNIST%20CNN/screenshots/9_Loss_Curve.JPG)  
+- [Display Predictions](https://github.com/Azizulhaq-professional/Aziz-Tech-Portfolio/blob/main/04_Fashion%20MNIST%20CNN/screenshots/10_Display_Prediction.png)  
 
 📊 Results
 
